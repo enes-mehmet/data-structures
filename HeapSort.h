@@ -1,5 +1,4 @@
 #pragma once
-#pragma once
 #ifndef _HEAPSORT_H
 #define _HEAPSORT_H
 
